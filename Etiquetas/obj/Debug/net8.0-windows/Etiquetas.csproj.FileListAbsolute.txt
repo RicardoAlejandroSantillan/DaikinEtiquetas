@@ -1,0 +1,35 @@
+C:\Users\PerezRA\source\repos\Etiquetas\Etiquetas\bin\Debug\net8.0-windows\Etiquetas.exe
+C:\Users\PerezRA\source\repos\Etiquetas\Etiquetas\bin\Debug\net8.0-windows\Etiquetas.deps.json
+C:\Users\PerezRA\source\repos\Etiquetas\Etiquetas\bin\Debug\net8.0-windows\Etiquetas.runtimeconfig.json
+C:\Users\PerezRA\source\repos\Etiquetas\Etiquetas\bin\Debug\net8.0-windows\Etiquetas.dll
+C:\Users\PerezRA\source\repos\Etiquetas\Etiquetas\bin\Debug\net8.0-windows\Etiquetas.pdb
+C:\Users\PerezRA\source\repos\Etiquetas\Etiquetas\obj\Debug\net8.0-windows\Etiquetas.Form1.resources
+C:\Users\PerezRA\source\repos\Etiquetas\Etiquetas\obj\Debug\net8.0-windows\Etiquetas.csproj.GenerateResource.cache
+C:\Users\PerezRA\source\repos\Etiquetas\Etiquetas\obj\Debug\net8.0-windows\Etiquetas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PerezRA\source\repos\Etiquetas\Etiquetas\obj\Debug\net8.0-windows\Etiquetas.AssemblyInfoInputs.cache
+C:\Users\PerezRA\source\repos\Etiquetas\Etiquetas\obj\Debug\net8.0-windows\Etiquetas.AssemblyInfo.cs
+C:\Users\PerezRA\source\repos\Etiquetas\Etiquetas\obj\Debug\net8.0-windows\Etiquetas.csproj.CoreCompileInputs.cache
+C:\Users\PerezRA\source\repos\Etiquetas\Etiquetas\obj\Debug\net8.0-windows\Etiquetas.dll
+C:\Users\PerezRA\source\repos\Etiquetas\Etiquetas\obj\Debug\net8.0-windows\refint\Etiquetas.dll
+C:\Users\PerezRA\source\repos\Etiquetas\Etiquetas\obj\Debug\net8.0-windows\Etiquetas.pdb
+C:\Users\PerezRA\source\repos\Etiquetas\Etiquetas\obj\Debug\net8.0-windows\Etiquetas.genruntimeconfig.cache
+C:\Users\PerezRA\source\repos\Etiquetas\Etiquetas\obj\Debug\net8.0-windows\ref\Etiquetas.dll
+C:\Users\PerezRA\source\repos\Etiquetas\Etiquetas\obj\Debug\net8.0-windows\Etiquetas.Properties.Resources.resources
+C:\Users\aleja\OneDrive\Documentos\1 - Proyectos\Trabajos\Daikin\Daikin_Etiquetas\Etiquetas\bin\Debug\net8.0-windows\Etiquetas.exe
+C:\Users\aleja\OneDrive\Documentos\1 - Proyectos\Trabajos\Daikin\Daikin_Etiquetas\Etiquetas\bin\Debug\net8.0-windows\Etiquetas.deps.json
+C:\Users\aleja\OneDrive\Documentos\1 - Proyectos\Trabajos\Daikin\Daikin_Etiquetas\Etiquetas\bin\Debug\net8.0-windows\Etiquetas.runtimeconfig.json
+C:\Users\aleja\OneDrive\Documentos\1 - Proyectos\Trabajos\Daikin\Daikin_Etiquetas\Etiquetas\bin\Debug\net8.0-windows\Etiquetas.dll
+C:\Users\aleja\OneDrive\Documentos\1 - Proyectos\Trabajos\Daikin\Daikin_Etiquetas\Etiquetas\bin\Debug\net8.0-windows\Etiquetas.pdb
+C:\Users\aleja\OneDrive\Documentos\1 - Proyectos\Trabajos\Daikin\Daikin_Etiquetas\Etiquetas\obj\Debug\net8.0-windows\Etiquetas.Form1.resources
+C:\Users\aleja\OneDrive\Documentos\1 - Proyectos\Trabajos\Daikin\Daikin_Etiquetas\Etiquetas\obj\Debug\net8.0-windows\Etiquetas.Properties.Resources.resources
+C:\Users\aleja\OneDrive\Documentos\1 - Proyectos\Trabajos\Daikin\Daikin_Etiquetas\Etiquetas\obj\Debug\net8.0-windows\Etiquetas.csproj.GenerateResource.cache
+C:\Users\aleja\OneDrive\Documentos\1 - Proyectos\Trabajos\Daikin\Daikin_Etiquetas\Etiquetas\obj\Debug\net8.0-windows\Etiquetas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aleja\OneDrive\Documentos\1 - Proyectos\Trabajos\Daikin\Daikin_Etiquetas\Etiquetas\obj\Debug\net8.0-windows\Etiquetas.AssemblyInfoInputs.cache
+C:\Users\aleja\OneDrive\Documentos\1 - Proyectos\Trabajos\Daikin\Daikin_Etiquetas\Etiquetas\obj\Debug\net8.0-windows\Etiquetas.AssemblyInfo.cs
+C:\Users\aleja\OneDrive\Documentos\1 - Proyectos\Trabajos\Daikin\Daikin_Etiquetas\Etiquetas\obj\Debug\net8.0-windows\Etiquetas.csproj.CoreCompileInputs.cache
+C:\Users\aleja\OneDrive\Documentos\1 - Proyectos\Trabajos\Daikin\Daikin_Etiquetas\Etiquetas\obj\Debug\net8.0-windows\Etiquetas.sourcelink.json
+C:\Users\aleja\OneDrive\Documentos\1 - Proyectos\Trabajos\Daikin\Daikin_Etiquetas\Etiquetas\obj\Debug\net8.0-windows\Etiquetas.dll
+C:\Users\aleja\OneDrive\Documentos\1 - Proyectos\Trabajos\Daikin\Daikin_Etiquetas\Etiquetas\obj\Debug\net8.0-windows\refint\Etiquetas.dll
+C:\Users\aleja\OneDrive\Documentos\1 - Proyectos\Trabajos\Daikin\Daikin_Etiquetas\Etiquetas\obj\Debug\net8.0-windows\Etiquetas.pdb
+C:\Users\aleja\OneDrive\Documentos\1 - Proyectos\Trabajos\Daikin\Daikin_Etiquetas\Etiquetas\obj\Debug\net8.0-windows\Etiquetas.genruntimeconfig.cache
+C:\Users\aleja\OneDrive\Documentos\1 - Proyectos\Trabajos\Daikin\Daikin_Etiquetas\Etiquetas\obj\Debug\net8.0-windows\ref\Etiquetas.dll
